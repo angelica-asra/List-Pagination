@@ -1,2 +1,2 @@
 # List-Pagination
-Paginating a list and adding a navigation system. 
+A Javascript program to paginate a list of student information and provide the necessary navigation. Treehouse techdegree project.
