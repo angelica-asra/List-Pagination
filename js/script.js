@@ -53,6 +53,7 @@ function changePage(e) {
 /*** 
    The appendPageLinks function dynamically creates DOM elements for the navigation links according to the student list provided. 
 ***/
+
 function appendPageLinks(list) {
 	var pagination = document.createElement("div");
 	pagination.className = "pagination";
